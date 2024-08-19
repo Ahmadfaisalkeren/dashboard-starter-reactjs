@@ -36,7 +36,7 @@ const Navbar = ({ toggleSidebar }) => {
                 <FaUser size={25} />
               </button>
               {isOpen && (
-                <ul className="text-sm font-medium bg-white rounded-lg shadow-lg p-1 absolute top-[55px] right-0">
+                <ul className="text-sm font-medium bg-white rounded-lg shadow-lg p-1 absolute top-[35px] right-0">
                   <li className="">
                     <a
                       href="#"
